@@ -1,0 +1,6 @@
+Being able to access granular data quickly is of great benefit to an organization. Well-engineered logging is one of the most important security aspects of application design. With consistent, easy-to-process, and sufficiently detailed logging, an operations team can more quickly respond to problems, meaning incidents can be detected and resolved faster.
+
+The last control we'll explore is [_Chaos Testing_](https://www.pagerduty.com/resources/learn/what-is-chaos-testing/). Chaos testing is a type of BCP or [_disaster recovery_](https://www.vmware.com/topics/glossary/content/disaster-recovery.html) (DR) practice that is often handled via automation. For example, we might leverage a virtual machine that has valid administrative credentials in the production network to cause intentional disasters from within.
+
+Chaos engineering includes a variety of different approaches, such as having red teams create chaos in the organization to test how well the organization can handle it, scheduling programmed machine shutdowns at various intervals, or having authenticated malicious platform API commands sent in. The goal is to truly test controls during messy and unpredictable situations. If a production system and organization can handle chaos with relative grace, then it is an indication that it will be robust and resilient to security threats.
+

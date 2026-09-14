@@ -1,0 +1,2 @@
+- TLS is designed to work on top of a reliable stream network protocol such as TCP. There is also a variant of TLS called [[Datagram Transport Layer Security (DTLS)]], which is designed to work with potentially unreliable and lossy protocols, such as UDP.
+- 

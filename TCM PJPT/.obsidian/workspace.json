@@ -1,0 +1,238 @@
+{
+  "main": {
+    "id": "e05c9be9e5673dec",
+    "type": "split",
+    "children": [
+      {
+        "id": "c0b81ffef8fa40dc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "db27362d220eaa9f",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "Untitled 9.base",
+                "viewName": "Table"
+              },
+              "icon": "lucide-table",
+              "title": "Untitled 9"
+            }
+          },
+          {
+            "id": "80ba10796ca8d172",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Pasted image 20250710165756.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250710165756"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0f09e281d91e18a9",
+    "type": "split",
+    "children": [
+      {
+        "id": "bc6e88968fb3198d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3534a16511c50af2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "714931b12908ac29",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "0975943e194e0cfc",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 436.5
+  },
+  "right": {
+    "id": "7ad43f1dba50e9c2",
+    "type": "split",
+    "children": [
+      {
+        "id": "22899ff9f0561b58",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a471fa0655f5d6f8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Passive Recon.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Passive Recon"
+            }
+          },
+          {
+            "id": "73b9856c606f5480",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Passive Recon.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Passive Recon"
+            }
+          },
+          {
+            "id": "394598cebe21a7fd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "64f38c6338f9cef5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Passive Recon.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Passive Recon"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "80ba10796ca8d172",
+  "lastOpenFiles": [
+    "Pasted image 20250709191745.png",
+    "Pasted image 20250624183003.png",
+    "Pasted image 20250624163757.png",
+    "Pasted image 20250623181800.png",
+    "Pasted image 20250620181941.png",
+    "Pasted image 20250214022956.png",
+    "Pasted image 20250214030238.png",
+    "Pasted image 20250619220630.png",
+    "Nessus.md",
+    "Ethical Hacking.md",
+    "Web Application Enumeration, Revisited/Gowitness.md",
+    "Web Application Enumeration, Revisited/Finding Subdomain with Assetfinder.md",
+    "Web Application Enumeration, Revisited/Auto Code Enum.md",
+    "Active Directory/Additional Active Directory Attacks/Overview.md",
+    "5 Stages of Ethical Hacking.md",
+    "2025-12-20.md",
+    "Computer Network Fundamentals.md",
+    "Passive Recon.md",
+    "Pasted image 20250710171710.png",
+    "Pasted image 20250711000641.png",
+    "Pasted image 20250710235637.png",
+    "Untitled.base",
+    "Untitled 8.base",
+    "Untitled 5.base",
+    "Untitled 2.base",
+    "Untitled 1.base",
+    "Active Directory/Post Compromise Attacks/GPP (cPassword) Attack.md",
+    "Active Directory/Post Compromise Attacks/LNK File Attack.md",
+    "Active Directory/Post Compromise Attacks/Pass Attacks.md",
+    "Reports And Debriefing.md",
+    "Assessment.md",
+    "Active Directory/Domain Compromised! Now What!/Dumping the NTDS.dit.md",
+    "Active Directory/Additional Active Directory Attacks/ZeroLogon.md",
+    "Active Directory/Additional Active Directory Attacks/PrintNightmare.md",
+    "Active Directory/Domain Compromised! Now What!/Strategy.md",
+    "Active Directory/Domain Compromised! Now What!/Golden Ticket Attack.md",
+    "Active Directory/Post Compromise Attacks/Token Impersonation.md",
+    "Active Directory/Initial Vector/SMB Relay.md",
+    "Active Directory/Initial Vector/LLMNR Poisoning.md",
+    "Active Directory/Initial Vector/Gaining Shell Access.md",
+    "Active Directory/Initial Vector/Cracking Hashes.md",
+    "Untitled 12.base",
+    "Untitled 2.canvas",
+    "Untitled 1.canvas",
+    "Untitled 10.base",
+    "Untitled 11.base",
+    "Untitled 9.base",
+    "Untitled 7.base",
+    "Untitled.canvas"
+  ]
+}

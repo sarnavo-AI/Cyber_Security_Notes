@@ -1,0 +1,234 @@
+{
+  "main": {
+    "id": "eaf061a6ffca286b",
+    "type": "split",
+    "children": [
+      {
+        "id": "f4983e15abd196ab",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2d963065bbf39b59",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "17. Windows Privilege Escalation/2. Leveraging Windows Services/1. Service Binary Hijacking.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1. Service Binary Hijacking"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ec8f7abbe5e26cc9",
+    "type": "split",
+    "children": [
+      {
+        "id": "e5d53107a02f48a2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "86008429ff6b4722",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "19a5ca305d996996",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "2a55f8efad64d529",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0bb9ae100ee96318",
+    "type": "split",
+    "children": [
+      {
+        "id": "e9050fb3f9a670ce",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bb91cf742aba447a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Intro/Security Models.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Security Models"
+            }
+          },
+          {
+            "id": "388f77409dfb539e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Intro/Security Models.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Security Models"
+            }
+          },
+          {
+            "id": "b05ba44155d6d308",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "5415cf47490f9e99",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "bc00c9229c909139",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Intro/Security Models.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Security Models"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "2d963065bbf39b59",
+  "lastOpenFiles": [
+    "Important Notes/Windows Notes.md",
+    "17. Windows Privilege Escalation/2. Leveraging Windows Services/1. Service Binary Hijacking.md",
+    "Important Notes/psexec vs wmiexec.md",
+    "17. Windows Privilege Escalation/2. Leveraging Windows Services",
+    "16. Password Attacks/Windows/2. Cracking NTLM.md",
+    "16. Password Attacks/Windows/3. Passing NTLM.md",
+    "16. Password Attacks/Windows/1. Basic.md",
+    "16. Password Attacks/Windows/4. Cracking Net-NTLMv2.md",
+    "16. Password Attacks/Windows/6. Windows Credential Guard.md",
+    "16. Password Attacks/Windows/5. Relaying Net-NTLMv2.md",
+    "16. Password Attacks/3. HTTP.md",
+    "16. Password Attacks/2. RDP.md",
+    "16. Password Attacks/1. SSH.md",
+    "16. Password Attacks/5. Password Manager.md",
+    "17. Windows Privilege Escalation/1 .Enumerating Windows/4. Powershell Goldmine.md",
+    "17. Windows Privilege Escalation/1 .Enumerating Windows/5. WinPEAS.md",
+    "17. Windows Privilege Escalation/1 .Enumerating Windows/3. Hidden Spices.md",
+    "17. Windows Privilege Escalation/1 .Enumerating Windows/2. Situational Awareness.md",
+    "17. Windows Privilege Escalation/1 .Enumerating Windows",
+    "17. Windows Privilege Escalation/1 .Enumerating Windows/1. Windows Privileges and Access Control Mechanisms.md",
+    "Important Notes/RDP.md",
+    "Important Notes/PowerShell Code to base64.md",
+    "17. Windows Privilege Escalation",
+    "5. Web App Attacks/File Upload.md",
+    "8. Client Side Attacks/Info.md",
+    "5. Web App Attacks/Directory Traversal.md",
+    "Important Notes/Shell.md",
+    "16. Password Attacks/6. SSH Passphrase.md",
+    "16. Password Attacks/4. Password Cracking.md",
+    "16. Password Attacks/Windows",
+    "16. Password Attacks",
+    "Important Notes",
+    "8. Client Side Attacks",
+    "Pasted image 20260729205430.png",
+    "Pasted image 20260307210145.png",
+    "7. Phishing",
+    "6. SQLi",
+    "5. Web App Attacks",
+    "Pasted image 20260617174357.png",
+    "Pasted image 20260313031108.png",
+    "Pasted image 20260313030916.png",
+    "Pasted image 20260307210710.png",
+    "Pasted image 20260307210656.png"
+  ]
+}
