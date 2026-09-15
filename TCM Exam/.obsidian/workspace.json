@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Secretsdump.py.md",
+                "file": "crackmapexec.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Secretsdump.py"
+              "title": "crackmapexec"
             }
           },
           {
@@ -259,28 +259,28 @@
   },
   "active": "4f45769e2c29d8a1",
   "lastOpenFiles": [
+    "Init Nmap/nmap.md",
+    "Init Nmap/10.0.0.225.md",
+    "crackmapexec.md",
+    "Pasted image 20250716114626.png",
+    "Pasted image 20250716115331.png",
+    "Secretsdump.py.md",
     "XFreeRDP.md",
     "rpcclient.md",
     "Responder.md",
-    "crackmapexec.md",
-    "Init Nmap/10.0.0.225.md",
     "Init Nmap/10.0.0.35.md",
     "Init Nmap/10.0.0.25.md",
     "Init Nmap/10.0.0.1.md",
-    "Init Nmap/nmap.md",
     "Connecting VPN.md",
     "Mimikatz.md",
     "Nessus.md",
-    "Secretsdump.py.md",
     "Pasted image 20250717191248.png",
     "Pasted image 20250716140818.png",
     "Pasted image 20250716135924.png",
     "Pasted image 20250716120501.png",
     "Pasted image 20250716120445.png",
-    "Pasted image 20250716115331.png",
     "Pasted image 20250716115301.png",
     "Pasted image 20250716115224.png",
-    "Pasted image 20250716114626.png",
     "Pasted image 20250716113007.png",
     "Untitled",
     "Init Nmap",

@@ -24,12 +24,14 @@
             "id": "80ba10796ca8d172",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Pasted image 20250710165756.png"
+                "file": "Active Directory/Domain Compromised! Now What!/Dumping the NTDS.dit.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250710165756"
+              "icon": "lucide-file",
+              "title": "Dumping the NTDS.dit"
             }
           }
         ],
@@ -185,6 +187,9 @@
   },
   "active": "80ba10796ca8d172",
   "lastOpenFiles": [
+    "5 Stages of Ethical Hacking.md",
+    "2025-07-09.md",
+    "Pasted image 20250710165756.png",
     "Pasted image 20250709191745.png",
     "Pasted image 20250624183003.png",
     "Pasted image 20250624163757.png",
@@ -199,13 +204,10 @@
     "Web Application Enumeration, Revisited/Finding Subdomain with Assetfinder.md",
     "Web Application Enumeration, Revisited/Auto Code Enum.md",
     "Active Directory/Additional Active Directory Attacks/Overview.md",
-    "5 Stages of Ethical Hacking.md",
     "2025-12-20.md",
     "Computer Network Fundamentals.md",
     "Passive Recon.md",
     "Pasted image 20250710171710.png",
-    "Pasted image 20250711000641.png",
-    "Pasted image 20250710235637.png",
     "Untitled.base",
     "Untitled 8.base",
     "Untitled 5.base",
